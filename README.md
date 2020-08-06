@@ -1,16 +1,15 @@
-### Hi there 👋
+**Objetivo**
 
-<!--
-**Glaubz/Glaubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuar na área de análise e desenvolvimento de sistemas e poder seguir uma carreira de programador competente e em constante crescimento.
 
-Here are some ideas to get you started:
+🔭 **Cursando Análise e Desenvolvimento de Sistemas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FATEC Jessen Vidal – 1º ao 3º semestre – Jul/2015 - Dez/2017
+
+UNIP São José dos Campos – 3º semestre – Jul/2019 - Presente
+
+**Qualidades**
+
+- Auto didata
+- Persistente ao resolver problemas
+- Criatividade
